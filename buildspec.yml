@@ -8,6 +8,7 @@ phases:
   build:
     commands:
       - yarn build
+      - yarn test
 
 artifacts:
   files:
